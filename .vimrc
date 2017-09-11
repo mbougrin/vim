@@ -1,3 +1,7 @@
+"Enable Omni Plugin
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
+
 "Print Number Line into Vim
 set number
 
