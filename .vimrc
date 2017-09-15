@@ -1,3 +1,6 @@
+"Add ctags
+set tags=$RACINE/tags;
+
 "Enable Omni Plugin
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
