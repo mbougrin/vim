@@ -161,7 +161,7 @@ nmap <C-g> G=gg
 nmap <C-f> :/
 
 "Bind Search tags Shift-f
-nmap <S-f> :/
+nmap <S-f> :ta
 
 "Clear Search Ctrl-l
 nmap <C-l> :nohlsearch<CR>
