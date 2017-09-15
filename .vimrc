@@ -156,10 +156,16 @@ vmap <S-p> :s/\/\///<CR>
 
 "Auto Indent All File
 nmap <C-g> G=gg
+
 "Bind Search Shortcut Ctrl-f
 nmap <C-f> :/
+
+"Bind Search tags Shift-f
+nmap <S-f> :/
+
 "Clear Search Ctrl-l
 nmap <C-l> :nohlsearch<CR>
+
 "Custom Paste Cut Copy
 nmap <C-c> yy
 nmap <C-x> dd

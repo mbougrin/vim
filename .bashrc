@@ -15,6 +15,8 @@ alias ccw="gcc -Wall -Wextra -Werror -ggdb"
 alias lla="ls -la"
 alias ..="cd .. && ll"
 alias grep="grep --color=auto"
+alias tags="ctags -R "${RACINE}" -f "{RACINE}"/tags"
+alias RACINE="RACINE=$PWD ; export RACINE"
 
 # Some more alias to avoid making mistakes:
 # alias rm='rm -i'
