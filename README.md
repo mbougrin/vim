@@ -1,4 +1,4 @@
-My Config Vim
+## My Config Vim
 
 + git clone http://github.com/mbougrin/vim
 
