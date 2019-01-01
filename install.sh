@@ -1,5 +1,5 @@
-cp .vimrc ~/
-cp .bashrc ~/
+cat .vimrc ~/.vimrc
+cat .bashrc ~/.bashrc
 cp -r .vim ~/
 gunzip ctags-5.8.tar.gz
 tar -xf ctags-5.8.tar
